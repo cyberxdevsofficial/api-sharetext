@@ -13,7 +13,7 @@ export default function handler(req, res) {
 
   res.status(200).json({
     success: true,
-    creator: "@Anuga Senithu",
+    creator: "@DarkTechZone",
     query: q,
     results: `https://sharetext.io/54c1a488}`
   });
